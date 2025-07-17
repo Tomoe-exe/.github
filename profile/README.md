@@ -14,7 +14,7 @@ Hi there, I'm <a href="https://github.com/LockheedMartin-lab" target="_blank" re
   </a>
 </div>
 
-(Currently programming alone, might be more in the future :P )
+(I'm currently programming the bot alone, there might be more people in the future :P )
 
 
 💬 If you have any question/feedback, don't hesitate to reach out to us!
