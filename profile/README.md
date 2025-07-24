@@ -20,7 +20,12 @@ Hi there, I'm <a href="https://github.com/LockheedMartin-lab" target="_blank" re
 💬 If you have any question/feedback, don't hesitate to reach out to us!
 
 ## 🔭 Currently working on
+
+<img src="https://raw.githubusercontent.com/LockheedMartin-lab/Tomoe/refs/heads/main/Images/Logo_static.png" alt="" height=140px width=140px></img>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomoe-exe&repo=Tomoe&icon_color=e74c3c&bg_color=151515&text_color=fff)](https://github.com/Tomoe-exe/Tomoe)
+
+
+
 
 
 ## 🛠️ Technical Skills and used applications  
